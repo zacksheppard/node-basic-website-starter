@@ -24,3 +24,7 @@ To serve pages you can use [http-server](https://github.com/indexzero/http-serve
 * [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/book/categorizing)
 
 To fascilitate sticking to the SMACSS principlies, SASS files point to the reference material and summarize some of the common rules that it's good to have on hand. These are in SASS comments that don't get compiled.
+
+## Future
+
+* Consider adding [Pug](https://github.com/pugjs/pug) (formerly 'Jade') for HTML templating.
